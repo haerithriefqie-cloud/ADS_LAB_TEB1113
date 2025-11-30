@@ -14,6 +14,8 @@
 | 25/10/02 | **Matrix** | [🟢 **Task 01 - Easy**]<br>[🟡 **Task 02 - Medium**]<br>[🔴 **Task 03 - Hard**] |
 | 25/10/16 | **Linked List** | [🔗 **Task 01 - Single Linked List**]<br>[🔁 **Task 02 - Double Linked List**] |
 | 25/10/23 | **Modified Linked List** | [🔄 **Task 01 - Modified Single Linked List**]<br>[🔄 **Task 02 - Modified Double Linked List**] |
+| 25/11/06 | **Modified Queue** | [🔄 **Task 01 - Modified Queue Single Linked List**]<br>[🔄 **Task 02 - Modified Queue Double Linked List**] |
+| 25/11/13 | **Tree** | [🧩 **Task 01**] |
 
 ---
 
